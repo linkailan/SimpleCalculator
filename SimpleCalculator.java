@@ -24,7 +24,7 @@ public class SimpleCalculator {
 			System.out.println(menu[i]);
 		}
 
-		int option = -1;
+		int option = 0;
 
 		double result = 0;
 		String output = "";
